@@ -1,0 +1,757 @@
+Feature ID,Feature Name,Line Item,Quantity,Rate
+87855,User activity and engagement tracking,Front End Dev,0,105
+87855,User activity and engagement tracking,Back End Dev,0,105
+87855,User activity and engagement tracking,Project Manager,0,105
+87855,User activity and engagement tracking,QA,0,105
+87855,User activity and engagement tracking,Design,0,105
+87855,User activity and engagement tracking,Support,0,105
+87860,Content moderation tools for admins and moderators,Front End Dev,0,105
+87860,Content moderation tools for admins and moderators,Back End Dev,0,105
+87860,Content moderation tools for admins and moderators,Project Manager,0,105
+87860,Content moderation tools for admins and moderators,QA,0,105
+87860,Content moderation tools for admins and moderators,Design,0,105
+87860,Content moderation tools for admins and moderators,Support,0,105
+87853,Follow and unfollow other users,Front End Dev,0,105
+87853,Follow and unfollow other users,Back End Dev,0,105
+87853,Follow and unfollow other users,Project Manager,0,105
+87853,Follow and unfollow other users,QA,0,105
+87853,Follow and unfollow other users,Design,0,105
+87853,Follow and unfollow other users,Support,0,105
+87858,Interactive onboarding tutorial for new users,Front End Dev,0,105
+87858,Interactive onboarding tutorial for new users,Back End Dev,0,105
+87858,Interactive onboarding tutorial for new users,Project Manager,0,105
+87858,Interactive onboarding tutorial for new users,QA,0,105
+87858,Interactive onboarding tutorial for new users,Design,0,105
+87858,Interactive onboarding tutorial for new users,Support,0,105
+87848,Sign-up with Google or Social Media Accounts,Front End Dev,0,105
+87848,Sign-up with Google or Social Media Accounts,Back End Dev,0,105
+87848,Sign-up with Google or Social Media Accounts,Project Manager,0,105
+87848,Sign-up with Google or Social Media Accounts,QA,0,105
+87848,Sign-up with Google or Social Media Accounts,Design,0,105
+87848,Sign-up with Google or Social Media Accounts,Support,0,105
+87849,Profile creation and customization,Front End Dev,0,105
+87849,Profile creation and customization,Back End Dev,0,105
+87849,Profile creation and customization,Project Manager,0,105
+87849,Profile creation and customization,QA,0,105
+87849,Profile creation and customization,Design,0,105
+87849,Profile creation and customization,Support,0,105
+87857,Bulk import of recipes from other platforms or files,Front End Dev,0,105
+87857,Bulk import of recipes from other platforms or files,Back End Dev,0,105
+87857,Bulk import of recipes from other platforms or files,Project Manager,0,105
+87857,Bulk import of recipes from other platforms or files,QA,0,105
+87857,Bulk import of recipes from other platforms or files,Design,0,105
+87857,Bulk import of recipes from other platforms or files,Support,0,105
+87851,"Role-based access (e.g., regular users, moderators, admins)",Front End Dev,0,105
+87851,"Role-based access (e.g., regular users, moderators, admins)",Back End Dev,0,105
+87851,"Role-based access (e.g., regular users, moderators, admins)",Project Manager,0,105
+87851,"Role-based access (e.g., regular users, moderators, admins)",QA,0,105
+87851,"Role-based access (e.g., regular users, moderators, admins)",Design,0,105
+87851,"Role-based access (e.g., regular users, moderators, admins)",Support,0,105
+87852,Privacy settings for profile visibility and content sharing,Front End Dev,0,105
+87852,Privacy settings for profile visibility and content sharing,Back End Dev,0,105
+87852,Privacy settings for profile visibility and content sharing,Project Manager,0,105
+87852,Privacy settings for profile visibility and content sharing,QA,0,105
+87852,Privacy settings for profile visibility and content sharing,Design,0,105
+87852,Privacy settings for profile visibility and content sharing,Support,0,105
+87971,User Engagement and Responsiveness,Front End Dev,0,105
+87971,User Engagement and Responsiveness,Back End Dev,0,105
+87971,User Engagement and Responsiveness,Project Manager,0,105
+87971,User Engagement and Responsiveness,QA,0,105
+87971,User Engagement and Responsiveness,Design,0,105
+87971,User Engagement and Responsiveness,Support,0,105
+87847,Anish,Front End Dev,0,105
+87847,Anish,Back End Dev,0,105
+87847,Anish,Project Manager,0,105
+87847,Anish,QA,0,105
+87847,Anish,Design,0,105
+87847,Anish,Support,0,105
+87856,Account recovery and password reset options,Front End Dev,0,105
+87856,Account recovery and password reset options,Back End Dev,0,105
+87856,Account recovery and password reset options,Project Manager,0,105
+87856,Account recovery and password reset options,QA,0,105
+87856,Account recovery and password reset options,Design,0,105
+87856,Account recovery and password reset options,Support,0,105
+87850,User bio and profile picture upload,Front End Dev,0,105
+87850,User bio and profile picture upload,Back End Dev,0,105
+87850,User bio and profile picture upload,Project Manager,0,105
+87850,User bio and profile picture upload,QA,0,105
+87850,User bio and profile picture upload,Design,0,105
+87850,User bio and profile picture upload,Support,0,105
+87866,Recipe editing and updating capabilities,Front End Dev,0,105
+87866,Recipe editing and updating capabilities,Back End Dev,0,105
+87866,Recipe editing and updating capabilities,Project Manager,0,105
+87866,Recipe editing and updating capabilities,QA,0,105
+87866,Recipe editing and updating capabilities,Design,0,105
+87866,Recipe editing and updating capabilities,Support,0,105
+87863,Ingredient list with quantity and measurement fields,Front End Dev,0,105
+87863,Ingredient list with quantity and measurement fields,Back End Dev,0,105
+87863,Ingredient list with quantity and measurement fields,Project Manager,0,105
+87863,Ingredient list with quantity and measurement fields,QA,0,105
+87863,Ingredient list with quantity and measurement fields,Design,0,105
+87863,Ingredient list with quantity and measurement fields,Support,0,105
+87861,Recipe creation and upload,Front End Dev,0,105
+87861,Recipe creation and upload,Back End Dev,0,105
+87861,Recipe creation and upload,Project Manager,0,105
+87861,Recipe creation and upload,QA,0,105
+87861,Recipe creation and upload,Design,0,105
+87861,Recipe creation and upload,Support,0,105
+87865,"Tagging system for recipes (e.g., #vegan, #quickmeals)",Front End Dev,0,105
+87865,"Tagging system for recipes (e.g., #vegan, #quickmeals)",Back End Dev,0,105
+87865,"Tagging system for recipes (e.g., #vegan, #quickmeals)",Project Manager,0,105
+87865,"Tagging system for recipes (e.g., #vegan, #quickmeals)",QA,0,105
+87865,"Tagging system for recipes (e.g., #vegan, #quickmeals)",Design,0,105
+87865,"Tagging system for recipes (e.g., #vegan, #quickmeals)",Support,0,105
+87864,"Categorization of recipes by cuisine, meal type, and dietary preferences",Front End Dev,0,105
+87864,"Categorization of recipes by cuisine, meal type, and dietary preferences",Back End Dev,0,105
+87864,"Categorization of recipes by cuisine, meal type, and dietary preferences",Project Manager,0,105
+87864,"Categorization of recipes by cuisine, meal type, and dietary preferences",QA,0,105
+87864,"Categorization of recipes by cuisine, meal type, and dietary preferences",Design,0,105
+87864,"Categorization of recipes by cuisine, meal type, and dietary preferences",Support,0,105
+87872,AI-powered recipe suggestions based on user preferences,Front End Dev,0,105
+87872,AI-powered recipe suggestions based on user preferences,Back End Dev,0,105
+87872,AI-powered recipe suggestions based on user preferences,Project Manager,0,105
+87872,AI-powered recipe suggestions based on user preferences,QA,0,105
+87872,AI-powered recipe suggestions based on user preferences,Design,0,105
+87872,AI-powered recipe suggestions based on user preferences,Support,0,105
+87868,Recipe duplication for users to create variations,Front End Dev,0,105
+87868,Recipe duplication for users to create variations,Back End Dev,0,105
+87868,Recipe duplication for users to create variations,Project Manager,0,105
+87868,Recipe duplication for users to create variations,QA,0,105
+87868,Recipe duplication for users to create variations,Design,0,105
+87868,Recipe duplication for users to create variations,Support,0,105
+87869,Nutritional information calculator for recipes,Front End Dev,0,105
+87869,Nutritional information calculator for recipes,Back End Dev,0,105
+87869,Nutritional information calculator for recipes,Project Manager,0,105
+87869,Nutritional information calculator for recipes,QA,0,105
+87869,Nutritional information calculator for recipes,Design,0,105
+87869,Nutritional information calculator for recipes,Support,0,105
+87873,Batch cooking and serving size adjustment tools,Front End Dev,0,105
+87873,Batch cooking and serving size adjustment tools,Back End Dev,0,105
+87873,Batch cooking and serving size adjustment tools,Project Manager,0,105
+87873,Batch cooking and serving size adjustment tools,QA,0,105
+87873,Batch cooking and serving size adjustment tools,Design,0,105
+87873,Batch cooking and serving size adjustment tools,Support,0,105
+87871,Recipe printing and export options,Front End Dev,0,105
+87871,Recipe printing and export options,Back End Dev,0,105
+87871,Recipe printing and export options,Project Manager,0,105
+87871,Recipe printing and export options,QA,0,105
+87871,Recipe printing and export options,Design,0,105
+87871,Recipe printing and export options,Support,0,105
+87867,Recipe saving to personal collections or boards,Front End Dev,0,105
+87867,Recipe saving to personal collections or boards,Back End Dev,0,105
+87867,Recipe saving to personal collections or boards,Project Manager,0,105
+87867,Recipe saving to personal collections or boards,QA,0,105
+87867,Recipe saving to personal collections or boards,Design,0,105
+87867,Recipe saving to personal collections or boards,Support,0,105
+87870,Integration with grocery delivery services for ingredient shopping,Front End Dev,0,105
+87870,Integration with grocery delivery services for ingredient shopping,Back End Dev,0,105
+87870,Integration with grocery delivery services for ingredient shopping,Project Manager,0,105
+87870,Integration with grocery delivery services for ingredient shopping,QA,0,105
+87870,Integration with grocery delivery services for ingredient shopping,Design,0,105
+87870,Integration with grocery delivery services for ingredient shopping,Support,0,105
+87862,"Step-by-step recipe instructions with multimedia support (images, videos)",Front End Dev,0,105
+87862,"Step-by-step recipe instructions with multimedia support (images, videos)",Back End Dev,0,105
+87862,"Step-by-step recipe instructions with multimedia support (images, videos)",Project Manager,0,105
+87862,"Step-by-step recipe instructions with multimedia support (images, videos)",QA,0,105
+87862,"Step-by-step recipe instructions with multimedia support (images, videos)",Design,0,105
+87862,"Step-by-step recipe instructions with multimedia support (images, videos)",Support,0,105
+87877,Direct messaging between users,Front End Dev,0,105
+87877,Direct messaging between users,Back End Dev,0,105
+87877,Direct messaging between users,Project Manager,0,105
+87877,Direct messaging between users,QA,0,105
+87877,Direct messaging between users,Design,0,105
+87877,Direct messaging between users,Support,0,105
+87876,Discussion forums for culinary topics,Front End Dev,0,105
+87876,Discussion forums for culinary topics,Back End Dev,0,105
+87876,Discussion forums for culinary topics,Project Manager,0,105
+87876,Discussion forums for culinary topics,QA,0,105
+87876,Discussion forums for culinary topics,Design,0,105
+87876,Discussion forums for culinary topics,Support,0,105
+87874,Commenting on recipes,Front End Dev,0,105
+87874,Commenting on recipes,Back End Dev,0,105
+87874,Commenting on recipes,Project Manager,0,105
+87874,Commenting on recipes,QA,0,105
+87874,Commenting on recipes,Design,0,105
+87874,Commenting on recipes,Support,0,105
+87879,Community challenges and recipe contests,Front End Dev,0,105
+87879,Community challenges and recipe contests,Back End Dev,0,105
+87879,Community challenges and recipe contests,Project Manager,0,105
+87879,Community challenges and recipe contests,QA,0,105
+87879,Community challenges and recipe contests,Design,0,105
+87879,Community challenges and recipe contests,Support,0,105
+87878,User mentions and hashtags in comments and discussions,Front End Dev,0,105
+87878,User mentions and hashtags in comments and discussions,Back End Dev,0,105
+87878,User mentions and hashtags in comments and discussions,Project Manager,0,105
+87878,User mentions and hashtags in comments and discussions,QA,0,105
+87878,User mentions and hashtags in comments and discussions,Design,0,105
+87878,User mentions and hashtags in comments and discussions,Support,0,105
+87880,Live Q&A sessions with chefs or food influencers,Front End Dev,0,105
+87880,Live Q&A sessions with chefs or food influencers,Back End Dev,0,105
+87880,Live Q&A sessions with chefs or food influencers,Project Manager,0,105
+87880,Live Q&A sessions with chefs or food influencers,QA,0,105
+87880,Live Q&A sessions with chefs or food influencers,Design,0,105
+87880,Live Q&A sessions with chefs or food influencers,Support,0,105
+87881,Polls and surveys for community engagement,Front End Dev,0,105
+87881,Polls and surveys for community engagement,Back End Dev,0,105
+87881,Polls and surveys for community engagement,Project Manager,0,105
+87881,Polls and surveys for community engagement,QA,0,105
+87881,Polls and surveys for community engagement,Design,0,105
+87881,Polls and surveys for community engagement,Support,0,105
+87884,Integration with social media for sharing recipes and discussions,Front End Dev,0,105
+87884,Integration with social media for sharing recipes and discussions,Back End Dev,0,105
+87884,Integration with social media for sharing recipes and discussions,Project Manager,0,105
+87884,Integration with social media for sharing recipes and discussions,QA,0,105
+87884,Integration with social media for sharing recipes and discussions,Design,0,105
+87884,Integration with social media for sharing recipes and discussions,Support,0,105
+87883,Event planning tools for virtual or in-person cooking meetups,Front End Dev,0,105
+87883,Event planning tools for virtual or in-person cooking meetups,Back End Dev,0,105
+87883,Event planning tools for virtual or in-person cooking meetups,Project Manager,0,105
+87883,Event planning tools for virtual or in-person cooking meetups,QA,0,105
+87883,Event planning tools for virtual or in-person cooking meetups,Design,0,105
+87883,Event planning tools for virtual or in-person cooking meetups,Support,0,105
+87875,"Recipe rating system (e.g., stars or thumbs up)",Front End Dev,0,105
+87875,"Recipe rating system (e.g., stars or thumbs up)",Back End Dev,0,105
+87875,"Recipe rating system (e.g., stars or thumbs up)",Project Manager,0,105
+87875,"Recipe rating system (e.g., stars or thumbs up)",QA,0,105
+87875,"Recipe rating system (e.g., stars or thumbs up)",Design,0,105
+87875,"Recipe rating system (e.g., stars or thumbs up)",Support,0,105
+87882,"User-generated content curation (e.g., featured recipes of the week)",Front End Dev,0,105
+87882,"User-generated content curation (e.g., featured recipes of the week)",Back End Dev,0,105
+87882,"User-generated content curation (e.g., featured recipes of the week)",Project Manager,0,105
+87882,"User-generated content curation (e.g., featured recipes of the week)",QA,0,105
+87882,"User-generated content curation (e.g., featured recipes of the week)",Design,0,105
+87882,"User-generated content curation (e.g., featured recipes of the week)",Support,0,105
+87887,Trending recipes and popular tags,Front End Dev,0,105
+87887,Trending recipes and popular tags,Back End Dev,0,105
+87887,Trending recipes and popular tags,Project Manager,0,105
+87887,Trending recipes and popular tags,QA,0,105
+87887,Trending recipes and popular tags,Design,0,105
+87887,Trending recipes and popular tags,Support,0,105
+87888,Curated collections and boards by admins or influencers,Front End Dev,0,105
+87888,Curated collections and boards by admins or influencers,Back End Dev,0,105
+87888,Curated collections and boards by admins or influencers,Project Manager,0,105
+87888,Curated collections and boards by admins or influencers,QA,0,105
+87888,Curated collections and boards by admins or influencers,Design,0,105
+87888,Curated collections and boards by admins or influencers,Support,0,105
+87886,Personalized recipe recommendations based on user activity,Front End Dev,0,105
+87886,Personalized recipe recommendations based on user activity,Back End Dev,0,105
+87886,Personalized recipe recommendations based on user activity,Project Manager,0,105
+87886,Personalized recipe recommendations based on user activity,QA,0,105
+87886,Personalized recipe recommendations based on user activity,Design,0,105
+87886,Personalized recipe recommendations based on user activity,Support,0,105
+87892,AI-powered search suggestions and autocomplete,Front End Dev,0,105
+87892,AI-powered search suggestions and autocomplete,Back End Dev,0,105
+87892,AI-powered search suggestions and autocomplete,Project Manager,0,105
+87892,AI-powered search suggestions and autocomplete,QA,0,105
+87892,AI-powered search suggestions and autocomplete,Design,0,105
+87892,AI-powered search suggestions and autocomplete,Support,0,105
+87885,"Search functionality with filters (e.g., cuisine, difficulty, prep time)",Front End Dev,0,105
+87885,"Search functionality with filters (e.g., cuisine, difficulty, prep time)",Back End Dev,0,105
+87885,"Search functionality with filters (e.g., cuisine, difficulty, prep time)",Project Manager,0,105
+87885,"Search functionality with filters (e.g., cuisine, difficulty, prep time)",QA,0,105
+87885,"Search functionality with filters (e.g., cuisine, difficulty, prep time)",Design,0,105
+87885,"Search functionality with filters (e.g., cuisine, difficulty, prep time)",Support,0,105
+87891,"Geolocation-based recipe discovery (e.g., local cuisines)",Front End Dev,0,105
+87891,"Geolocation-based recipe discovery (e.g., local cuisines)",Back End Dev,0,105
+87891,"Geolocation-based recipe discovery (e.g., local cuisines)",Project Manager,0,105
+87891,"Geolocation-based recipe discovery (e.g., local cuisines)",QA,0,105
+87891,"Geolocation-based recipe discovery (e.g., local cuisines)",Design,0,105
+87891,"Geolocation-based recipe discovery (e.g., local cuisines)",Support,0,105
+87894,Integration with external recipe databases for expanded discovery,Front End Dev,0,105
+87894,Integration with external recipe databases for expanded discovery,Back End Dev,0,105
+87894,Integration with external recipe databases for expanded discovery,Project Manager,0,105
+87894,Integration with external recipe databases for expanded discovery,QA,0,105
+87894,Integration with external recipe databases for expanded discovery,Design,0,105
+87894,Integration with external recipe databases for expanded discovery,Support,0,105
+87893,Seasonal and holiday-themed recipe collections,Front End Dev,0,105
+87893,Seasonal and holiday-themed recipe collections,Back End Dev,0,105
+87893,Seasonal and holiday-themed recipe collections,Project Manager,0,105
+87893,Seasonal and holiday-themed recipe collections,QA,0,105
+87893,Seasonal and holiday-themed recipe collections,Design,0,105
+87893,Seasonal and holiday-themed recipe collections,Support,0,105
+87889,Recipe bookmarking for later viewing,Front End Dev,0,105
+87889,Recipe bookmarking for later viewing,Back End Dev,0,105
+87889,Recipe bookmarking for later viewing,Project Manager,0,105
+87889,Recipe bookmarking for later viewing,QA,0,105
+87889,Recipe bookmarking for later viewing,Design,0,105
+87889,Recipe bookmarking for later viewing,Support,0,105
+87890,Explore page with new and featured content,Front End Dev,0,105
+87890,Explore page with new and featured content,Back End Dev,0,105
+87890,Explore page with new and featured content,Project Manager,0,105
+87890,Explore page with new and featured content,QA,0,105
+87890,Explore page with new and featured content,Design,0,105
+87890,Explore page with new and featured content,Support,0,105
+87903,Integration with food blogs for cross-platform sharing,Front End Dev,0,105
+87903,Integration with food blogs for cross-platform sharing,Back End Dev,0,105
+87903,Integration with food blogs for cross-platform sharing,Project Manager,0,105
+87903,Integration with food blogs for cross-platform sharing,QA,0,105
+87903,Integration with food blogs for cross-platform sharing,Design,0,105
+87903,Integration with food blogs for cross-platform sharing,Support,0,105
+87895,Image and video upload for recipes and comments,Front End Dev,0,105
+87895,Image and video upload for recipes and comments,Back End Dev,0,105
+87895,Image and video upload for recipes and comments,Project Manager,0,105
+87895,Image and video upload for recipes and comments,QA,0,105
+87895,Image and video upload for recipes and comments,Design,0,105
+87895,Image and video upload for recipes and comments,Support,0,105
+87900,Collaborative recipe boards for group contributions,Front End Dev,0,105
+87900,Collaborative recipe boards for group contributions,Back End Dev,0,105
+87900,Collaborative recipe boards for group contributions,Project Manager,0,105
+87900,Collaborative recipe boards for group contributions,QA,0,105
+87900,Collaborative recipe boards for group contributions,Design,0,105
+87900,Collaborative recipe boards for group contributions,Support,0,105
+87897,Recipe sharing via social media platforms,Front End Dev,0,105
+87897,Recipe sharing via social media platforms,Back End Dev,0,105
+87897,Recipe sharing via social media platforms,Project Manager,0,105
+87897,Recipe sharing via social media platforms,QA,0,105
+87897,Recipe sharing via social media platforms,Design,0,105
+87897,Recipe sharing via social media platforms,Support,0,105
+87904,Downloadable recipe cards with user branding,Front End Dev,0,105
+87904,Downloadable recipe cards with user branding,Back End Dev,0,105
+87904,Downloadable recipe cards with user branding,Project Manager,0,105
+87904,Downloadable recipe cards with user branding,QA,0,105
+87904,Downloadable recipe cards with user branding,Design,0,105
+87904,Downloadable recipe cards with user branding,Support,0,105
+87901,Watermarking tools for user-uploaded images,Front End Dev,0,105
+87901,Watermarking tools for user-uploaded images,Back End Dev,0,105
+87901,Watermarking tools for user-uploaded images,Project Manager,0,105
+87901,Watermarking tools for user-uploaded images,QA,0,105
+87901,Watermarking tools for user-uploaded images,Design,0,105
+87901,Watermarking tools for user-uploaded images,Support,0,105
+87896,Live cooking video streaming and tutorials,Front End Dev,0,105
+87896,Live cooking video streaming and tutorials,Back End Dev,0,105
+87896,Live cooking video streaming and tutorials,Project Manager,0,105
+87896,Live cooking video streaming and tutorials,QA,0,105
+87896,Live cooking video streaming and tutorials,Design,0,105
+87896,Live cooking video streaming and tutorials,Support,0,105
+87898,Embed codes for sharing recipes on external websites,Front End Dev,0,105
+87898,Embed codes for sharing recipes on external websites,Back End Dev,0,105
+87898,Embed codes for sharing recipes on external websites,Project Manager,0,105
+87898,Embed codes for sharing recipes on external websites,QA,0,105
+87898,Embed codes for sharing recipes on external websites,Design,0,105
+87898,Embed codes for sharing recipes on external websites,Support,0,105
+87902,"Content sharing analytics (e.g., views, shares, likes)",Front End Dev,0,105
+87902,"Content sharing analytics (e.g., views, shares, likes)",Back End Dev,0,105
+87902,"Content sharing analytics (e.g., views, shares, likes)",Project Manager,0,105
+87902,"Content sharing analytics (e.g., views, shares, likes)",QA,0,105
+87902,"Content sharing analytics (e.g., views, shares, likes)",Design,0,105
+87902,"Content sharing analytics (e.g., views, shares, likes)",Support,0,105
+87899,"User-generated content galleries (e.g., food photography)",Front End Dev,0,105
+87899,"User-generated content galleries (e.g., food photography)",Back End Dev,0,105
+87899,"User-generated content galleries (e.g., food photography)",Project Manager,0,105
+87899,"User-generated content galleries (e.g., food photography)",QA,0,105
+87899,"User-generated content galleries (e.g., food photography)",Design,0,105
+87899,"User-generated content galleries (e.g., food photography)",Support,0,105
+87908,Weekly or monthly challenges with rewards,Front End Dev,0,105
+87908,Weekly or monthly challenges with rewards,Back End Dev,0,105
+87908,Weekly or monthly challenges with rewards,Project Manager,0,105
+87908,Weekly or monthly challenges with rewards,QA,0,105
+87908,Weekly or monthly challenges with rewards,Design,0,105
+87908,Weekly or monthly challenges with rewards,Support,0,105
+87913,Exclusive content or perks for premium users,Front End Dev,0,105
+87913,Exclusive content or perks for premium users,Back End Dev,0,105
+87913,Exclusive content or perks for premium users,Project Manager,0,105
+87913,Exclusive content or perks for premium users,QA,0,105
+87913,Exclusive content or perks for premium users,Design,0,105
+87913,Exclusive content or perks for premium users,Support,0,105
+87909,Recipe contest participation and voting,Front End Dev,0,105
+87909,Recipe contest participation and voting,Back End Dev,0,105
+87909,Recipe contest participation and voting,Project Manager,0,105
+87909,Recipe contest participation and voting,QA,0,105
+87909,Recipe contest participation and voting,Design,0,105
+87909,Recipe contest participation and voting,Support,0,105
+87907,"Points system for community engagement (e.g., commenting, rating, uploading)",Front End Dev,0,105
+87907,"Points system for community engagement (e.g., commenting, rating, uploading)",Back End Dev,0,105
+87907,"Points system for community engagement (e.g., commenting, rating, uploading)",Project Manager,0,105
+87907,"Points system for community engagement (e.g., commenting, rating, uploading)",QA,0,105
+87907,"Points system for community engagement (e.g., commenting, rating, uploading)",Design,0,105
+87907,"Points system for community engagement (e.g., commenting, rating, uploading)",Support,0,105
+87910,Unlockable features or content based on user activity,Front End Dev,0,105
+87910,Unlockable features or content based on user activity,Back End Dev,0,105
+87910,Unlockable features or content based on user activity,Project Manager,0,105
+87910,Unlockable features or content based on user activity,QA,0,105
+87910,Unlockable features or content based on user activity,Design,0,105
+87910,Unlockable features or content based on user activity,Support,0,105
+87912,Community recognition for top-rated recipes,Front End Dev,0,105
+87912,Community recognition for top-rated recipes,Back End Dev,0,105
+87912,Community recognition for top-rated recipes,Project Manager,0,105
+87912,Community recognition for top-rated recipes,QA,0,105
+87912,Community recognition for top-rated recipes,Design,0,105
+87912,Community recognition for top-rated recipes,Support,0,105
+87914,Integration with loyalty programs for food-related brands,Front End Dev,0,105
+87914,Integration with loyalty programs for food-related brands,Back End Dev,0,105
+87914,Integration with loyalty programs for food-related brands,Project Manager,0,105
+87914,Integration with loyalty programs for food-related brands,QA,0,105
+87914,Integration with loyalty programs for food-related brands,Design,0,105
+87914,Integration with loyalty programs for food-related brands,Support,0,105
+87905,"User badges and achievements for milestones (e.g., first recipe upload, 100 likes)",Front End Dev,0,105
+87905,"User badges and achievements for milestones (e.g., first recipe upload, 100 likes)",Back End Dev,0,105
+87905,"User badges and achievements for milestones (e.g., first recipe upload, 100 likes)",Project Manager,0,105
+87905,"User badges and achievements for milestones (e.g., first recipe upload, 100 likes)",QA,0,105
+87905,"User badges and achievements for milestones (e.g., first recipe upload, 100 likes)",Design,0,105
+87905,"User badges and achievements for milestones (e.g., first recipe upload, 100 likes)",Support,0,105
+87911,Virtual trophies for contest winners,Front End Dev,0,105
+87911,Virtual trophies for contest winners,Back End Dev,0,105
+87911,Virtual trophies for contest winners,Project Manager,0,105
+87911,Virtual trophies for contest winners,QA,0,105
+87911,Virtual trophies for contest winners,Design,0,105
+87911,Virtual trophies for contest winners,Support,0,105
+87906,Leaderboards for top contributors and recipe ratings,Front End Dev,0,105
+87906,Leaderboards for top contributors and recipe ratings,Back End Dev,0,105
+87906,Leaderboards for top contributors and recipe ratings,Project Manager,0,105
+87906,Leaderboards for top contributors and recipe ratings,QA,0,105
+87906,Leaderboards for top contributors and recipe ratings,Design,0,105
+87906,Leaderboards for top contributors and recipe ratings,Support,0,105
+87915,Cross-platform mobile app for iOS and Android,Front End Dev,0,105
+87915,Cross-platform mobile app for iOS and Android,Back End Dev,0,105
+87915,Cross-platform mobile app for iOS and Android,Project Manager,0,105
+87915,Cross-platform mobile app for iOS and Android,QA,0,105
+87915,Cross-platform mobile app for iOS and Android,Design,0,105
+87915,Cross-platform mobile app for iOS and Android,Support,0,105
+87920,Augmented reality (AR) tools for ingredient identification,Front End Dev,0,105
+87920,Augmented reality (AR) tools for ingredient identification,Back End Dev,0,105
+87920,Augmented reality (AR) tools for ingredient identification,Project Manager,0,105
+87920,Augmented reality (AR) tools for ingredient identification,QA,0,105
+87920,Augmented reality (AR) tools for ingredient identification,Design,0,105
+87920,Augmented reality (AR) tools for ingredient identification,Support,0,105
+87918,Mobile-optimized user interface for easy navigation,Front End Dev,0,105
+87918,Mobile-optimized user interface for easy navigation,Back End Dev,0,105
+87918,Mobile-optimized user interface for easy navigation,Project Manager,0,105
+87918,Mobile-optimized user interface for easy navigation,QA,0,105
+87918,Mobile-optimized user interface for easy navigation,Design,0,105
+87918,Mobile-optimized user interface for easy navigation,Support,0,105
+87919,Voice-to-text for recipe creation and comments,Front End Dev,0,105
+87919,Voice-to-text for recipe creation and comments,Back End Dev,0,105
+87919,Voice-to-text for recipe creation and comments,Project Manager,0,105
+87919,Voice-to-text for recipe creation and comments,QA,0,105
+87919,Voice-to-text for recipe creation and comments,Design,0,105
+87919,Voice-to-text for recipe creation and comments,Support,0,105
+87922,"Integration with smart kitchen devices (e.g., smart ovens, scales)",Front End Dev,0,105
+87922,"Integration with smart kitchen devices (e.g., smart ovens, scales)",Back End Dev,0,105
+87922,"Integration with smart kitchen devices (e.g., smart ovens, scales)",Project Manager,0,105
+87922,"Integration with smart kitchen devices (e.g., smart ovens, scales)",QA,0,105
+87922,"Integration with smart kitchen devices (e.g., smart ovens, scales)",Design,0,105
+87922,"Integration with smart kitchen devices (e.g., smart ovens, scales)",Support,0,105
+87921,Barcode scanning for adding ingredients to recipes,Front End Dev,0,105
+87921,Barcode scanning for adding ingredients to recipes,Back End Dev,0,105
+87921,Barcode scanning for adding ingredients to recipes,Project Manager,0,105
+87921,Barcode scanning for adding ingredients to recipes,QA,0,105
+87921,Barcode scanning for adding ingredients to recipes,Design,0,105
+87921,Barcode scanning for adding ingredients to recipes,Support,0,105
+87924,Quick access widgets for favorite recipes,Front End Dev,0,105
+87924,Quick access widgets for favorite recipes,Back End Dev,0,105
+87924,Quick access widgets for favorite recipes,Project Manager,0,105
+87924,Quick access widgets for favorite recipes,QA,0,105
+87924,Quick access widgets for favorite recipes,Design,0,105
+87924,Quick access widgets for favorite recipes,Support,0,105
+87923,Dark mode for reduced eye strain,Front End Dev,0,105
+87923,Dark mode for reduced eye strain,Back End Dev,0,105
+87923,Dark mode for reduced eye strain,Project Manager,0,105
+87923,Dark mode for reduced eye strain,QA,0,105
+87923,Dark mode for reduced eye strain,Design,0,105
+87923,Dark mode for reduced eye strain,Support,0,105
+87916,"Push notifications for recipe updates, comments, and likes",Front End Dev,0,105
+87916,"Push notifications for recipe updates, comments, and likes",Back End Dev,0,105
+87916,"Push notifications for recipe updates, comments, and likes",Project Manager,0,105
+87916,"Push notifications for recipe updates, comments, and likes",QA,0,105
+87916,"Push notifications for recipe updates, comments, and likes",Design,0,105
+87916,"Push notifications for recipe updates, comments, and likes",Support,0,105
+87917,Offline access to saved recipes,Front End Dev,0,105
+87917,Offline access to saved recipes,Back End Dev,0,105
+87917,Offline access to saved recipes,Project Manager,0,105
+87917,Offline access to saved recipes,QA,0,105
+87917,Offline access to saved recipes,Design,0,105
+87917,Offline access to saved recipes,Support,0,105
+87934,Insights on user preferences for targeted content recommendations,Front End Dev,0,105
+87934,Insights on user preferences for targeted content recommendations,Back End Dev,0,105
+87934,Insights on user preferences for targeted content recommendations,Project Manager,0,105
+87934,Insights on user preferences for targeted content recommendations,QA,0,105
+87934,Insights on user preferences for targeted content recommendations,Design,0,105
+87934,Insights on user preferences for targeted content recommendations,Support,0,105
+87925,"User activity analytics (e.g., most viewed recipes, engagement trends)",Front End Dev,0,105
+87925,"User activity analytics (e.g., most viewed recipes, engagement trends)",Back End Dev,0,105
+87925,"User activity analytics (e.g., most viewed recipes, engagement trends)",Project Manager,0,105
+87925,"User activity analytics (e.g., most viewed recipes, engagement trends)",QA,0,105
+87925,"User activity analytics (e.g., most viewed recipes, engagement trends)",Design,0,105
+87925,"User activity analytics (e.g., most viewed recipes, engagement trends)",Support,0,105
+87926,"Recipe performance metrics (e.g., views, saves, ratings)",Front End Dev,0,105
+87926,"Recipe performance metrics (e.g., views, saves, ratings)",Back End Dev,0,105
+87926,"Recipe performance metrics (e.g., views, saves, ratings)",Project Manager,0,105
+87926,"Recipe performance metrics (e.g., views, saves, ratings)",QA,0,105
+87926,"Recipe performance metrics (e.g., views, saves, ratings)",Design,0,105
+87926,"Recipe performance metrics (e.g., views, saves, ratings)",Support,0,105
+87929,Heatmaps for popular recipe categories and tags,Front End Dev,0,105
+87929,Heatmaps for popular recipe categories and tags,Back End Dev,0,105
+87929,Heatmaps for popular recipe categories and tags,Project Manager,0,105
+87929,Heatmaps for popular recipe categories and tags,QA,0,105
+87929,Heatmaps for popular recipe categories and tags,Design,0,105
+87929,Heatmaps for popular recipe categories and tags,Support,0,105
+87927,Community engagement reports for admins,Front End Dev,0,105
+87927,Community engagement reports for admins,Back End Dev,0,105
+87927,Community engagement reports for admins,Project Manager,0,105
+87927,Community engagement reports for admins,QA,0,105
+87927,Community engagement reports for admins,Design,0,105
+87927,Community engagement reports for admins,Support,0,105
+87928,AI-driven insights for improving recipe visibility,Front End Dev,0,105
+87928,AI-driven insights for improving recipe visibility,Back End Dev,0,105
+87928,AI-driven insights for improving recipe visibility,Project Manager,0,105
+87928,AI-driven insights for improving recipe visibility,QA,0,105
+87928,AI-driven insights for improving recipe visibility,Design,0,105
+87928,AI-driven insights for improving recipe visibility,Support,0,105
+87931,Trend analysis for seasonal or popular cuisines,Front End Dev,0,105
+87931,Trend analysis for seasonal or popular cuisines,Back End Dev,0,105
+87931,Trend analysis for seasonal or popular cuisines,Project Manager,0,105
+87931,Trend analysis for seasonal or popular cuisines,QA,0,105
+87931,Trend analysis for seasonal or popular cuisines,Design,0,105
+87931,Trend analysis for seasonal or popular cuisines,Support,0,105
+87930,User feedback collection and analysis,Front End Dev,0,105
+87930,User feedback collection and analysis,Back End Dev,0,105
+87930,User feedback collection and analysis,Project Manager,0,105
+87930,User feedback collection and analysis,QA,0,105
+87930,User feedback collection and analysis,Design,0,105
+87930,User feedback collection and analysis,Support,0,105
+87933,Integration with external analytics tools for advanced reporting,Front End Dev,0,105
+87933,Integration with external analytics tools for advanced reporting,Back End Dev,0,105
+87933,Integration with external analytics tools for advanced reporting,Project Manager,0,105
+87933,Integration with external analytics tools for advanced reporting,QA,0,105
+87933,Integration with external analytics tools for advanced reporting,Design,0,105
+87933,Integration with external analytics tools for advanced reporting,Support,0,105
+87932,Customizable dashboards for tracking personal or community metrics,Front End Dev,0,105
+87932,Customizable dashboards for tracking personal or community metrics,Back End Dev,0,105
+87932,Customizable dashboards for tracking personal or community metrics,Project Manager,0,105
+87932,Customizable dashboards for tracking personal or community metrics,QA,0,105
+87932,Customizable dashboards for tracking personal or community metrics,Design,0,105
+87932,Customizable dashboards for tracking personal or community metrics,Support,0,105
+87942,"Compliance with data privacy regulations (e.g., GDPR, CCPA)",Front End Dev,0,105
+87942,"Compliance with data privacy regulations (e.g., GDPR, CCPA)",Back End Dev,0,105
+87942,"Compliance with data privacy regulations (e.g., GDPR, CCPA)",Project Manager,0,105
+87942,"Compliance with data privacy regulations (e.g., GDPR, CCPA)",QA,0,105
+87942,"Compliance with data privacy regulations (e.g., GDPR, CCPA)",Design,0,105
+87942,"Compliance with data privacy regulations (e.g., GDPR, CCPA)",Support,0,105
+87936,Integration with social media platforms for sharing and login,Front End Dev,0,105
+87936,Integration with social media platforms for sharing and login,Back End Dev,0,105
+87936,Integration with social media platforms for sharing and login,Project Manager,0,105
+87936,Integration with social media platforms for sharing and login,QA,0,105
+87936,Integration with social media platforms for sharing and login,Design,0,105
+87936,Integration with social media platforms for sharing and login,Support,0,105
+87937,Plug-in architecture for adding new features,Front End Dev,0,105
+87937,Plug-in architecture for adding new features,Back End Dev,0,105
+87937,Plug-in architecture for adding new features,Project Manager,0,105
+87937,Plug-in architecture for adding new features,QA,0,105
+87937,Plug-in architecture for adding new features,Design,0,105
+87937,Plug-in architecture for adding new features,Support,0,105
+87935,APIs for integration with external platforms and services,Front End Dev,0,105
+87935,APIs for integration with external platforms and services,Back End Dev,0,105
+87935,APIs for integration with external platforms and services,Project Manager,0,105
+87935,APIs for integration with external platforms and services,QA,0,105
+87935,APIs for integration with external platforms and services,Design,0,105
+87935,APIs for integration with external platforms and services,Support,0,105
+87939,Integration with grocery delivery and meal planning apps,Front End Dev,0,105
+87939,Integration with grocery delivery and meal planning apps,Back End Dev,0,105
+87939,Integration with grocery delivery and meal planning apps,Project Manager,0,105
+87939,Integration with grocery delivery and meal planning apps,QA,0,105
+87939,Integration with grocery delivery and meal planning apps,Design,0,105
+87939,Integration with grocery delivery and meal planning apps,Support,0,105
+87940,Support for third-party advertising and sponsorships,Front End Dev,0,105
+87940,Support for third-party advertising and sponsorships,Back End Dev,0,105
+87940,Support for third-party advertising and sponsorships,Project Manager,0,105
+87940,Support for third-party advertising and sponsorships,QA,0,105
+87940,Support for third-party advertising and sponsorships,Design,0,105
+87940,Support for third-party advertising and sponsorships,Support,0,105
+87944,Integration with fitness and health tracking apps for nutritional insights,Front End Dev,0,105
+87944,Integration with fitness and health tracking apps for nutritional insights,Back End Dev,0,105
+87944,Integration with fitness and health tracking apps for nutritional insights,Project Manager,0,105
+87944,Integration with fitness and health tracking apps for nutritional insights,QA,0,105
+87944,Integration with fitness and health tracking apps for nutritional insights,Design,0,105
+87944,Integration with fitness and health tracking apps for nutritional insights,Support,0,105
+87943,Modular system for scalability and feature expansion,Front End Dev,0,105
+87943,Modular system for scalability and feature expansion,Back End Dev,0,105
+87943,Modular system for scalability and feature expansion,Project Manager,0,105
+87943,Modular system for scalability and feature expansion,QA,0,105
+87943,Modular system for scalability and feature expansion,Design,0,105
+87943,Modular system for scalability and feature expansion,Support,0,105
+87941,Integration with food blogs and influencer platforms,Front End Dev,0,105
+87941,Integration with food blogs and influencer platforms,Back End Dev,0,105
+87941,Integration with food blogs and influencer platforms,Project Manager,0,105
+87941,Integration with food blogs and influencer platforms,QA,0,105
+87941,Integration with food blogs and influencer platforms,Design,0,105
+87941,Integration with food blogs and influencer platforms,Support,0,105
+87938,Data import/export capabilities for recipes and user data,Front End Dev,0,105
+87938,Data import/export capabilities for recipes and user data,Back End Dev,0,105
+87938,Data import/export capabilities for recipes and user data,Project Manager,0,105
+87938,Data import/export capabilities for recipes and user data,QA,0,105
+87938,Data import/export capabilities for recipes and user data,Design,0,105
+87938,Data import/export capabilities for recipes and user data,Support,0,105
+87945,Data encryption at rest and in transit,Front End Dev,0,105
+87945,Data encryption at rest and in transit,Back End Dev,0,105
+87945,Data encryption at rest and in transit,Project Manager,0,105
+87945,Data encryption at rest and in transit,QA,0,105
+87945,Data encryption at rest and in transit,Design,0,105
+87945,Data encryption at rest and in transit,Support,0,105
+87949,Anomaly detection for suspicious activity,Front End Dev,0,105
+87949,Anomaly detection for suspicious activity,Back End Dev,0,105
+87949,Anomaly detection for suspicious activity,Project Manager,0,105
+87949,Anomaly detection for suspicious activity,QA,0,105
+87949,Anomaly detection for suspicious activity,Design,0,105
+87949,Anomaly detection for suspicious activity,Support,0,105
+87951,End-to-end encryption for private messages,Front End Dev,0,105
+87951,End-to-end encryption for private messages,Back End Dev,0,105
+87951,End-to-end encryption for private messages,Project Manager,0,105
+87951,End-to-end encryption for private messages,QA,0,105
+87951,End-to-end encryption for private messages,Design,0,105
+87951,End-to-end encryption for private messages,Support,0,105
+87946,Role-based access control for user data and content,Front End Dev,0,105
+87946,Role-based access control for user data and content,Back End Dev,0,105
+87946,Role-based access control for user data and content,Project Manager,0,105
+87946,Role-based access control for user data and content,QA,0,105
+87946,Role-based access control for user data and content,Design,0,105
+87946,Role-based access control for user data and content,Support,0,105
+87948,"Compliance with data privacy regulations (e.g., GDPR, CCPA)",Front End Dev,0,105
+87948,"Compliance with data privacy regulations (e.g., GDPR, CCPA)",Back End Dev,0,105
+87948,"Compliance with data privacy regulations (e.g., GDPR, CCPA)",Project Manager,0,105
+87948,"Compliance with data privacy regulations (e.g., GDPR, CCPA)",QA,0,105
+87948,"Compliance with data privacy regulations (e.g., GDPR, CCPA)",Design,0,105
+87948,"Compliance with data privacy regulations (e.g., GDPR, CCPA)",Support,0,105
+87952,Regular security audits and updates,Front End Dev,0,105
+87952,Regular security audits and updates,Back End Dev,0,105
+87952,Regular security audits and updates,Project Manager,0,105
+87952,Regular security audits and updates,QA,0,105
+87952,Regular security audits and updates,Design,0,105
+87952,Regular security audits and updates,Support,0,105
+87953,User-controlled privacy settings for content visibility,Front End Dev,0,105
+87953,User-controlled privacy settings for content visibility,Back End Dev,0,105
+87953,User-controlled privacy settings for content visibility,Project Manager,0,105
+87953,User-controlled privacy settings for content visibility,QA,0,105
+87953,User-controlled privacy settings for content visibility,Design,0,105
+87953,User-controlled privacy settings for content visibility,Support,0,105
+87950,Content reporting and flagging system for inappropriate material,Front End Dev,0,105
+87950,Content reporting and flagging system for inappropriate material,Back End Dev,0,105
+87950,Content reporting and flagging system for inappropriate material,Project Manager,0,105
+87950,Content reporting and flagging system for inappropriate material,QA,0,105
+87950,Content reporting and flagging system for inappropriate material,Design,0,105
+87950,Content reporting and flagging system for inappropriate material,Support,0,105
+87954,Secure login options with multi-factor authentication,Front End Dev,0,105
+87954,Secure login options with multi-factor authentication,Back End Dev,0,105
+87954,Secure login options with multi-factor authentication,Project Manager,0,105
+87954,Secure login options with multi-factor authentication,QA,0,105
+87954,Secure login options with multi-factor authentication,Design,0,105
+87954,Secure login options with multi-factor authentication,Support,0,105
+87947,Audit logs for content moderation and user activity,Front End Dev,0,105
+87947,Audit logs for content moderation and user activity,Back End Dev,0,105
+87947,Audit logs for content moderation and user activity,Project Manager,0,105
+87947,Audit logs for content moderation and user activity,QA,0,105
+87947,Audit logs for content moderation and user activity,Design,0,105
+87947,Audit logs for content moderation and user activity,Support,0,105
+87958,Interactive guides for new users,Front End Dev,0,105
+87958,Interactive guides for new users,Back End Dev,0,105
+87958,Interactive guides for new users,Project Manager,0,105
+87958,Interactive guides for new users,QA,0,105
+87958,Interactive guides for new users,Design,0,105
+87958,Interactive guides for new users,Support,0,105
+87957,Community forums for peer support and best practices,Front End Dev,0,105
+87957,Community forums for peer support and best practices,Back End Dev,0,105
+87957,Community forums for peer support and best practices,Project Manager,0,105
+87957,Community forums for peer support and best practices,QA,0,105
+87957,Community forums for peer support and best practices,Design,0,105
+87957,Community forums for peer support and best practices,Support,0,105
+87959,24/7 technical support for premium users,Front End Dev,0,105
+87959,24/7 technical support for premium users,Back End Dev,0,105
+87959,24/7 technical support for premium users,Project Manager,0,105
+87959,24/7 technical support for premium users,QA,0,105
+87959,24/7 technical support for premium users,Design,0,105
+87959,24/7 technical support for premium users,Support,0,105
+87960,Feedback collection for platform improvements,Front End Dev,0,105
+87960,Feedback collection for platform improvements,Back End Dev,0,105
+87960,Feedback collection for platform improvements,Project Manager,0,105
+87960,Feedback collection for platform improvements,QA,0,105
+87960,Feedback collection for platform improvements,Design,0,105
+87960,Feedback collection for platform improvements,Support,0,105
+87961,Video tutorials for advanced features,Front End Dev,0,105
+87961,Video tutorials for advanced features,Back End Dev,0,105
+87961,Video tutorials for advanced features,Project Manager,0,105
+87961,Video tutorials for advanced features,QA,0,105
+87961,Video tutorials for advanced features,Design,0,105
+87961,Video tutorials for advanced features,Support,0,105
+87956,Live chat support for technical issues,Front End Dev,0,105
+87956,Live chat support for technical issues,Back End Dev,0,105
+87956,Live chat support for technical issues,Project Manager,0,105
+87956,Live chat support for technical issues,QA,0,105
+87956,Live chat support for technical issues,Design,0,105
+87956,Live chat support for technical issues,Support,0,105
+87962,AI-powered chatbot for instant assistance,Front End Dev,0,105
+87962,AI-powered chatbot for instant assistance,Back End Dev,0,105
+87962,AI-powered chatbot for instant assistance,Project Manager,0,105
+87962,AI-powered chatbot for instant assistance,QA,0,105
+87962,AI-powered chatbot for instant assistance,Design,0,105
+87962,AI-powered chatbot for instant assistance,Support,0,105
+87963,Regular webinars on platform updates and features,Front End Dev,0,105
+87963,Regular webinars on platform updates and features,Back End Dev,0,105
+87963,Regular webinars on platform updates and features,Project Manager,0,105
+87963,Regular webinars on platform updates and features,QA,0,105
+87963,Regular webinars on platform updates and features,Design,0,105
+87963,Regular webinars on platform updates and features,Support,0,105
+87964,User surveys for feature requests and satisfaction,Front End Dev,0,105
+87964,User surveys for feature requests and satisfaction,Back End Dev,0,105
+87964,User surveys for feature requests and satisfaction,Project Manager,0,105
+87964,User surveys for feature requests and satisfaction,QA,0,105
+87964,User surveys for feature requests and satisfaction,Design,0,105
+87964,User surveys for feature requests and satisfaction,Support,0,105
+87955,Comprehensive help center with FAQs and tutorials,Front End Dev,0,105
+87955,Comprehensive help center with FAQs and tutorials,Back End Dev,0,105
+87955,Comprehensive help center with FAQs and tutorials,Project Manager,0,105
+87955,Comprehensive help center with FAQs and tutorials,QA,0,105
+87955,Comprehensive help center with FAQs and tutorials,Design,0,105
+87955,Comprehensive help center with FAQs and tutorials,Support,0,105
+87965,Scalability and Performance,Front End Dev,0,105
+87965,Scalability and Performance,Back End Dev,0,105
+87965,Scalability and Performance,Project Manager,0,105
+87965,Scalability and Performance,QA,0,105
+87965,Scalability and Performance,Design,0,105
+87965,Scalability and Performance,Support,0,105
+87966,Cross-Platform Compatibility,Front End Dev,0,105
+87966,Cross-Platform Compatibility,Back End Dev,0,105
+87966,Cross-Platform Compatibility,Project Manager,0,105
+87966,Cross-Platform Compatibility,QA,0,105
+87966,Cross-Platform Compatibility,Design,0,105
+87966,Cross-Platform Compatibility,Support,0,105
+87967,Data Privacy and Security,Front End Dev,0,105
+87967,Data Privacy and Security,Back End Dev,0,105
+87967,Data Privacy and Security,Project Manager,0,105
+87967,Data Privacy and Security,QA,0,105
+87967,Data Privacy and Security,Design,0,105
+87967,Data Privacy and Security,Support,0,105
+87968,High Availability,Front End Dev,0,105
+87968,High Availability,Back End Dev,0,105
+87968,High Availability,Project Manager,0,105
+87968,High Availability,QA,0,105
+87968,High Availability,Design,0,105
+87968,High Availability,Support,0,105
+87969,Content Delivery and Latency,Front End Dev,0,105
+87969,Content Delivery and Latency,Back End Dev,0,105
+87969,Content Delivery and Latency,Project Manager,0,105
+87969,Content Delivery and Latency,QA,0,105
+87969,Content Delivery and Latency,Design,0,105
+87969,Content Delivery and Latency,Support,0,105
+87970,Extensibility and Modularity,Front End Dev,0,105
+87970,Extensibility and Modularity,Back End Dev,0,105
+87970,Extensibility and Modularity,Project Manager,0,105
+87970,Extensibility and Modularity,QA,0,105
+87970,Extensibility and Modularity,Design,0,105
+87970,Extensibility and Modularity,Support,0,105
+87972,Accessibility,Front End Dev,0,105
+87972,Accessibility,Back End Dev,0,105
+87972,Accessibility,Project Manager,0,105
+87972,Accessibility,QA,0,105
+87972,Accessibility,Design,0,105
+87972,Accessibility,Support,0,105
+87973,Analytics and Insights,Front End Dev,0,105
+87973,Analytics and Insights,Back End Dev,0,105
+87973,Analytics and Insights,Project Manager,0,105
+87973,Analytics and Insights,QA,0,105
+87973,Analytics and Insights,Design,0,105
+87973,Analytics and Insights,Support,0,105
+87974,Localization and Internationalization,Front End Dev,0,105
+87974,Localization and Internationalization,Back End Dev,0,105
+87974,Localization and Internationalization,Project Manager,0,105
+87974,Localization and Internationalization,QA,0,105
+87974,Localization and Internationalization,Design,0,105
+87974,Localization and Internationalization,Support,0,105

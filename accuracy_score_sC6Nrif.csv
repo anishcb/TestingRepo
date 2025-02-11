@@ -1,0 +1,440 @@
+511834,Security Policy and Vulnerability Reporting,SECURITY.md,0.1,False
+511834,Security Policy and Vulnerability Reporting,CODE_OF_CONDUCT.md,0.0,False
+511834,Security Policy and Vulnerability Reporting,setup.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,README.md,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/__init__.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,.github/pull_request_template.md,0.0,False
+511834,Security Policy and Vulnerability Reporting,CHANGELOG.md,0.0,False
+511834,Security Policy and Vulnerability Reporting,tests/routers.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,runtests.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/admin.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,tests/settings.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/apps.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/cache.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/metadata.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/models.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,tests/test_multidb.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,tests/test_fixtures.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,tests/test_settings.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/settings.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,tests/test_templatetags.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,tests/urls.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0001_initial.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,tests/urls_without_i18n_patterns.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,tests/test_metadata.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,tests/test_models.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,.github/ISSUE_TEMPLATE/bug_report.md,0.0,False
+511834,Security Policy and Vulnerability Reporting,.github/ISSUE_TEMPLATE/feature_request.md,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0004_rename_title_color.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0003_add_logo_color.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0002_add_related_modal.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0007_add_favicon.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0006_bytes_to_str.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0008_change_related_modal_background_opacity_type.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0005_add_recent_actions_visible.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0010_add_localization.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0009_add_enviroment.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0011_add_environment_options.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0013_add_related_modal_close_button.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0012_update_verbose_names.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0015_add_language_chooser_active.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0017_change_list_filter_dropdown.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0016_add_language_chooser_display.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0020_module_selected_colors.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0019_add_form_sticky.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0018_theme_list_filter_sticky.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0014_name_unique.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0023_theme_foldable_apps.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0021_file_extension_validator.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0022_add_logo_max_width_and_height.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0027_theme_list_filter_removal_links.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0024_remove_theme_css.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0025_theme_language_chooser_control.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0028_theme_show_fieldsets_as_tabs_and_more.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0026_theme_list_filter_highlight.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0029_theme_css_generic_link_active_color.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/templatetags/admin_interface_tags.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/migrations/0030_theme_collapsible_stacked_inlines_and_more.py,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/templates/admin/base_site.html,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/static/streamfield/admin_popup_response.js,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/templates/admin/change_form.html,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/templates/admin/change_list.html,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/templates/admin/filter.html,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/templates/admin/popup_response.html,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/templates/admin_interface/collapsible-inlines.html,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/templates/admin_interface/date_hierarchy_removal_link.html,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/templates/admin_interface/foldable-apps.html,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/templates/admin_interface/favicon.html,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/static/admin/js/cancel.js,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/templates/admin_interface/language_chooser.html,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/templates/admin_interface/list_filter_removal_link.html,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/templates/admin_interface/dropdown_filter.html,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/templates/admin_interface/related-modal.html,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/static/admin/js/collapse.js,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/static/admin_interface/foldable-apps/foldable-apps.js,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/static/admin_interface/magnific-popup/jquery.magnific-popup.js,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/static/admin_interface/favico/favico-0.3.10-patched.min.js,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/static/admin_interface/favico/favico-0.3.10-patched.js,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/static/admin_interface/magnific-popup/jquery.magnific-popup.js,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/static/admin/js/popup_response.js,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/static/admin_interface/collapsible-inlines/collapsible-inlines.js,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/static/admin_interface/related-modal/related-modal.js,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/static/admin_interface/tabbed-changeform/tabbed-changeform.js,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/templates/admin/edit_inline/headerless_stacked.html,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/templates/admin/edit_inline/headerless_tabular.html,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/static/ckeditor/ckeditor/skins/light/README.md,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/static/ckeditor/ckeditor/skins/light/skin.js,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/static/streamfield/js/admin_popup_response.js,0.0,False
+511834,Security Policy and Vulnerability Reporting,admin_interface/templates/admin/includes/headerless_fieldset.html,0.0,False
+511838,Optional Features and Themes,runtests.py,0.0,False
+511838,Optional Features and Themes,.github/pull_request_template.md,0.0,False
+511838,Optional Features and Themes,CHANGELOG.md,0.0,False
+511838,Optional Features and Themes,CODE_OF_CONDUCT.md,0.0,False
+511838,Optional Features and Themes,admin_interface/cache.py,0.0,False
+511838,Optional Features and Themes,SECURITY.md,0.0,False
+511838,Optional Features and Themes,README.md,0.7,True
+511838,Optional Features and Themes,admin_interface/__init__.py,0.0,False
+511838,Optional Features and Themes,admin_interface/settings.py,0.0,False
+511838,Optional Features and Themes,admin_interface/apps.py,0.0,False
+511838,Optional Features and Themes,admin_interface/metadata.py,0.0,False
+511838,Optional Features and Themes,admin_interface/models.py,0.6,True
+511838,Optional Features and Themes,admin_interface/admin.py,0.4,True
+511838,Optional Features and Themes,setup.py,0.0,False
+511838,Optional Features and Themes,tests/test_fixtures.py,0.0,False
+511838,Optional Features and Themes,tests/settings.py,0.0,False
+511838,Optional Features and Themes,tests/routers.py,0.0,False
+511838,Optional Features and Themes,tests/test_metadata.py,0.0,False
+511838,Optional Features and Themes,tests/urls_without_i18n_patterns.py,0.0,False
+511838,Optional Features and Themes,tests/test_settings.py,0.0,False
+511838,Optional Features and Themes,tests/test_multidb.py,0.0,False
+511838,Optional Features and Themes,tests/test_templatetags.py,0.0,False
+511838,Optional Features and Themes,tests/urls.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0003_add_logo_color.py,0.0,False
+511838,Optional Features and Themes,tests/test_models.py,0.5,True
+511838,Optional Features and Themes,.github/ISSUE_TEMPLATE/bug_report.md,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0001_initial.py,0.3,True
+511838,Optional Features and Themes,.github/ISSUE_TEMPLATE/feature_request.md,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0002_add_related_modal.py,0.3,True
+511838,Optional Features and Themes,admin_interface/migrations/0005_add_recent_actions_visible.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0008_change_related_modal_background_opacity_type.py,0.1,True
+511838,Optional Features and Themes,admin_interface/migrations/0007_add_favicon.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0011_add_environment_options.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0009_add_enviroment.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0006_bytes_to_str.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0004_rename_title_color.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0010_add_localization.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0019_add_form_sticky.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0013_add_related_modal_close_button.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0014_name_unique.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0012_update_verbose_names.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0018_theme_list_filter_sticky.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0015_add_language_chooser_active.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0016_add_language_chooser_display.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0021_file_extension_validator.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0020_module_selected_colors.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0024_remove_theme_css.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0022_add_logo_max_width_and_height.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0017_change_list_filter_dropdown.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0026_theme_list_filter_highlight.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0025_theme_language_chooser_control.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0027_theme_list_filter_removal_links.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0023_theme_foldable_apps.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0029_theme_css_generic_link_active_color.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0028_theme_show_fieldsets_as_tabs_and_more.py,0.0,False
+511838,Optional Features and Themes,admin_interface/migrations/0030_theme_collapsible_stacked_inlines_and_more.py,0.0,False
+511838,Optional Features and Themes,admin_interface/templatetags/admin_interface_tags.py,0.0,False
+511838,Optional Features and Themes,admin_interface/static/streamfield/admin_popup_response.js,0.0,False
+511838,Optional Features and Themes,admin_interface/templates/admin/base_site.html,0.6,True
+511838,Optional Features and Themes,admin_interface/templates/admin/change_list.html,0.0,False
+511838,Optional Features and Themes,admin_interface/templates/admin/filter.html,0.0,False
+511838,Optional Features and Themes,admin_interface/templates/admin/popup_response.html,0.0,False
+511838,Optional Features and Themes,admin_interface/templates/admin_interface/dropdown_filter.html,0.0,False
+511838,Optional Features and Themes,admin_interface/templates/admin/change_form.html,0.0,False
+511838,Optional Features and Themes,admin_interface/templates/admin_interface/foldable-apps.html,0.0,False
+511838,Optional Features and Themes,admin_interface/templates/admin_interface/collapsible-inlines.html,0.0,False
+511838,Optional Features and Themes,admin_interface/templates/admin_interface/date_hierarchy_removal_link.html,0.0,False
+511838,Optional Features and Themes,admin_interface/templates/admin_interface/favicon.html,0.0,False
+511838,Optional Features and Themes,admin_interface/templates/admin_interface/language_chooser.html,0.0,False
+511838,Optional Features and Themes,admin_interface/templates/admin_interface/list_filter_removal_link.html,0.0,False
+511838,Optional Features and Themes,admin_interface/static/admin/js/collapse.js,0.0,False
+511838,Optional Features and Themes,admin_interface/static/admin/js/popup_response.js,0.0,False
+511838,Optional Features and Themes,admin_interface/templates/admin_interface/related-modal.html,0.2,True
+511838,Optional Features and Themes,admin_interface/static/admin/js/cancel.js,0.0,False
+511838,Optional Features and Themes,admin_interface/static/admin_interface/favico/favico-0.3.10-patched.min.js,0.0,False
+511838,Optional Features and Themes,admin_interface/static/admin_interface/magnific-popup/jquery.magnific-popup.js,0.0,False
+511838,Optional Features and Themes,admin_interface/static/admin_interface/favico/favico-0.3.10-patched.js,0.0,False
+511838,Optional Features and Themes,admin_interface/static/admin_interface/foldable-apps/foldable-apps.js,0.0,False
+511838,Optional Features and Themes,admin_interface/static/admin_interface/tabbed-changeform/tabbed-changeform.js,0.0,False
+511838,Optional Features and Themes,admin_interface/static/admin_interface/collapsible-inlines/collapsible-inlines.js,0.0,False
+511838,Optional Features and Themes,admin_interface/static/admin_interface/magnific-popup/jquery.magnific-popup.js,0.0,False
+511838,Optional Features and Themes,admin_interface/static/admin_interface/related-modal/related-modal.js,0.3,True
+511838,Optional Features and Themes,admin_interface/static/streamfield/js/admin_popup_response.js,0.0,False
+511838,Optional Features and Themes,admin_interface/templates/admin/includes/headerless_fieldset.html,0.0,False
+511838,Optional Features and Themes,admin_interface/static/ckeditor/ckeditor/skins/light/README.md,0.0,False
+511838,Optional Features and Themes,admin_interface/static/ckeditor/ckeditor/skins/light/skin.js,0.0,False
+511838,Optional Features and Themes,admin_interface/templates/admin/edit_inline/headerless_stacked.html,0.0,False
+511838,Optional Features and Themes,admin_interface/templates/admin/edit_inline/headerless_tabular.html,0.0,False
+511839,Environment Marker,README.md,0.3,True
+511839,Environment Marker,CHANGELOG.md,0.1,True
+511839,Environment Marker,SECURITY.md,0.0,False
+511839,Environment Marker,runtests.py,0.0,False
+511839,Environment Marker,.github/pull_request_template.md,0.0,False
+511839,Environment Marker,CODE_OF_CONDUCT.md,0.0,False
+511839,Environment Marker,admin_interface/__init__.py,0.0,False
+511839,Environment Marker,admin_interface/metadata.py,0.0,False
+511839,Environment Marker,admin_interface/admin.py,0.3,True
+511839,Environment Marker,admin_interface/cache.py,0.0,False
+511839,Environment Marker,admin_interface/settings.py,0.0,False
+511839,Environment Marker,admin_interface/models.py,0.5,True
+511839,Environment Marker,admin_interface/apps.py,0.0,False
+511839,Environment Marker,tests/routers.py,0.0,False
+511839,Environment Marker,tests/settings.py,0.0,False
+511839,Environment Marker,tests/test_fixtures.py,0.0,False
+511839,Environment Marker,tests/test_metadata.py,0.0,False
+511839,Environment Marker,tests/test_models.py,0.0,False
+511839,Environment Marker,setup.py,0.0,False
+511839,Environment Marker,tests/urls.py,0.0,False
+511839,Environment Marker,.github/ISSUE_TEMPLATE/bug_report.md,0.0,False
+511839,Environment Marker,tests/test_settings.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0001_initial.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0003_add_logo_color.py,0.0,False
+511839,Environment Marker,.github/ISSUE_TEMPLATE/feature_request.md,0.0,False
+511839,Environment Marker,tests/test_templatetags.py,0.0,False
+511839,Environment Marker,tests/urls_without_i18n_patterns.py,0.0,False
+511839,Environment Marker,tests/test_multidb.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0004_rename_title_color.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0002_add_related_modal.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0008_change_related_modal_background_opacity_type.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0009_add_enviroment.py,0.2,True
+511839,Environment Marker,admin_interface/migrations/0005_add_recent_actions_visible.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0011_add_environment_options.py,0.4,True
+511839,Environment Marker,admin_interface/migrations/0006_bytes_to_str.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0012_update_verbose_names.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0007_add_favicon.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0010_add_localization.py,0.3,True
+511839,Environment Marker,admin_interface/migrations/0017_change_list_filter_dropdown.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0016_add_language_chooser_display.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0014_name_unique.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0013_add_related_modal_close_button.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0015_add_language_chooser_active.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0021_file_extension_validator.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0020_module_selected_colors.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0019_add_form_sticky.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0018_theme_list_filter_sticky.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0022_add_logo_max_width_and_height.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0024_remove_theme_css.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0023_theme_foldable_apps.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0026_theme_list_filter_highlight.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0025_theme_language_chooser_control.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0027_theme_list_filter_removal_links.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0030_theme_collapsible_stacked_inlines_and_more.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0029_theme_css_generic_link_active_color.py,0.0,False
+511839,Environment Marker,admin_interface/templatetags/admin_interface_tags.py,0.0,False
+511839,Environment Marker,admin_interface/migrations/0028_theme_show_fieldsets_as_tabs_and_more.py,0.0,False
+511839,Environment Marker,admin_interface/static/streamfield/admin_popup_response.js,0.0,False
+511839,Environment Marker,admin_interface/templates/admin_interface/date_hierarchy_removal_link.html,0.0,False
+511839,Environment Marker,admin_interface/templates/admin/change_form.html,0.0,False
+511839,Environment Marker,admin_interface/templates/admin/change_list.html,0.0,False
+511839,Environment Marker,admin_interface/templates/admin/base_site.html,0.5,True
+511839,Environment Marker,admin_interface/templates/admin/popup_response.html,0.0,False
+511839,Environment Marker,admin_interface/templates/admin/filter.html,0.0,False
+511839,Environment Marker,admin_interface/templates/admin_interface/collapsible-inlines.html,0.0,False
+511839,Environment Marker,admin_interface/templates/admin_interface/dropdown_filter.html,0.0,False
+511839,Environment Marker,admin_interface/templates/admin_interface/favicon.html,0.3,True
+511839,Environment Marker,admin_interface/static/admin/js/cancel.js,0.0,False
+511839,Environment Marker,admin_interface/templates/admin_interface/language_chooser.html,0.0,False
+511839,Environment Marker,admin_interface/templates/admin_interface/related-modal.html,0.0,False
+511839,Environment Marker,admin_interface/templates/admin_interface/foldable-apps.html,0.0,False
+511839,Environment Marker,admin_interface/templates/admin_interface/list_filter_removal_link.html,0.0,False
+511839,Environment Marker,admin_interface/static/admin/js/collapse.js,0.0,False
+511839,Environment Marker,admin_interface/static/admin_interface/favico/favico-0.3.10-patched.js,0.0,False
+511839,Environment Marker,admin_interface/static/admin/js/popup_response.js,0.0,False
+511839,Environment Marker,admin_interface/static/admin_interface/foldable-apps/foldable-apps.js,0.0,False
+511839,Environment Marker,admin_interface/static/admin_interface/collapsible-inlines/collapsible-inlines.js,0.0,False
+511839,Environment Marker,admin_interface/static/admin_interface/favico/favico-0.3.10-patched.min.js,0.0,False
+511839,Environment Marker,admin_interface/static/streamfield/js/admin_popup_response.js,0.0,False
+511839,Environment Marker,admin_interface/static/admin_interface/related-modal/related-modal.js,0.0,False
+511839,Environment Marker,admin_interface/static/admin_interface/magnific-popup/jquery.magnific-popup.js,0.0,False
+511839,Environment Marker,admin_interface/static/admin_interface/magnific-popup/jquery.magnific-popup.js,0.0,False
+511839,Environment Marker,admin_interface/templates/admin/edit_inline/headerless_stacked.html,0.0,False
+511839,Environment Marker,admin_interface/templates/admin/edit_inline/headerless_tabular.html,0.0,False
+511839,Environment Marker,admin_interface/static/admin_interface/tabbed-changeform/tabbed-changeform.js,0.0,False
+511840,Third-Party Library Compatibility,CHANGELOG.md,0.5,True
+511839,Environment Marker,admin_interface/templates/admin/includes/headerless_fieldset.html,0.0,False
+511839,Environment Marker,admin_interface/static/ckeditor/ckeditor/skins/light/README.md,0.0,False
+511839,Environment Marker,admin_interface/static/ckeditor/ckeditor/skins/light/skin.js,0.0,False
+511840,Third-Party Library Compatibility,README.md,0.3,True
+511840,Third-Party Library Compatibility,.github/pull_request_template.md,0.0,False
+511840,Third-Party Library Compatibility,runtests.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/apps.py,0.0,False
+511840,Third-Party Library Compatibility,SECURITY.md,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/__init__.py,0.0,False
+511840,Third-Party Library Compatibility,CODE_OF_CONDUCT.md,0.0,False
+511840,Third-Party Library Compatibility,setup.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/settings.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/models.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/cache.py,0.0,False
+511840,Third-Party Library Compatibility,tests/settings.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/admin.py,0.0,False
+511840,Third-Party Library Compatibility,tests/routers.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/metadata.py,0.0,False
+511840,Third-Party Library Compatibility,tests/test_multidb.py,0.0,False
+511840,Third-Party Library Compatibility,tests/test_fixtures.py,0.0,False
+511840,Third-Party Library Compatibility,tests/test_metadata.py,0.0,False
+511840,Third-Party Library Compatibility,tests/urls_without_i18n_patterns.py,0.0,False
+511840,Third-Party Library Compatibility,tests/test_models.py,0.0,False
+511840,Third-Party Library Compatibility,tests/test_templatetags.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0003_add_logo_color.py,0.0,False
+511840,Third-Party Library Compatibility,tests/test_settings.py,0.0,False
+511840,Third-Party Library Compatibility,tests/urls.py,0.0,False
+511840,Third-Party Library Compatibility,.github/ISSUE_TEMPLATE/feature_request.md,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0002_add_related_modal.py,0.0,False
+511840,Third-Party Library Compatibility,.github/ISSUE_TEMPLATE/bug_report.md,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0005_add_recent_actions_visible.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0006_bytes_to_str.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0004_rename_title_color.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0001_initial.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0008_change_related_modal_background_opacity_type.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0010_add_localization.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0009_add_enviroment.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0007_add_favicon.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0011_add_environment_options.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0012_update_verbose_names.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0013_add_related_modal_close_button.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0015_add_language_chooser_active.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0014_name_unique.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0017_change_list_filter_dropdown.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0016_add_language_chooser_display.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0020_module_selected_colors.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0019_add_form_sticky.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0021_file_extension_validator.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0023_theme_foldable_apps.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0018_theme_list_filter_sticky.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0022_add_logo_max_width_and_height.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0024_remove_theme_css.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0026_theme_list_filter_highlight.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0025_theme_language_chooser_control.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0028_theme_show_fieldsets_as_tabs_and_more.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0030_theme_collapsible_stacked_inlines_and_more.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0029_theme_css_generic_link_active_color.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/templatetags/admin_interface_tags.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/migrations/0027_theme_list_filter_removal_links.py,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/templates/admin/change_form.html,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/templates/admin/base_site.html,0.3,True
+511840,Third-Party Library Compatibility,admin_interface/static/streamfield/admin_popup_response.js,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/templates/admin/filter.html,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/templates/admin/change_list.html,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/templates/admin_interface/collapsible-inlines.html,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/templates/admin/popup_response.html,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/templates/admin_interface/dropdown_filter.html,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/templates/admin_interface/date_hierarchy_removal_link.html,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/templates/admin_interface/list_filter_removal_link.html,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/templates/admin_interface/foldable-apps.html,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/templates/admin_interface/language_chooser.html,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/templates/admin_interface/favicon.html,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/static/admin_interface/collapsible-inlines/collapsible-inlines.js,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/templates/admin_interface/related-modal.html,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/static/admin/js/cancel.js,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/static/admin/js/popup_response.js,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/static/admin_interface/favico/favico-0.3.10-patched.min.js,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/static/admin_interface/magnific-popup/jquery.magnific-popup.js,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/static/admin/js/collapse.js,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/static/admin_interface/related-modal/related-modal.js,0.3,True
+511840,Third-Party Library Compatibility,admin_interface/static/admin_interface/foldable-apps/foldable-apps.js,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/static/ckeditor/ckeditor/skins/light/README.md,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/static/admin_interface/favico/favico-0.3.10-patched.js,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/static/admin_interface/magnific-popup/jquery.magnific-popup.js,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/templates/admin/edit_inline/headerless_stacked.html,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/static/streamfield/js/admin_popup_response.js,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/static/admin_interface/tabbed-changeform/tabbed-changeform.js,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/templates/admin/includes/headerless_fieldset.html,0.0,False
+511842,Localization Support,CODE_OF_CONDUCT.md,0.0,False
+511842,Localization Support,README.md,0.5,True
+511842,Localization Support,SECURITY.md,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/static/ckeditor/ckeditor/skins/light/skin.js,0.0,False
+511840,Third-Party Library Compatibility,admin_interface/templates/admin/edit_inline/headerless_tabular.html,0.0,False
+511842,Localization Support,admin_interface/__init__.py,0.0,False
+511842,Localization Support,CHANGELOG.md,0.5,True
+511842,Localization Support,setup.py,0.0,False
+511842,Localization Support,.github/pull_request_template.md,0.0,False
+511842,Localization Support,runtests.py,0.0,False
+511842,Localization Support,admin_interface/metadata.py,0.0,False
+511842,Localization Support,admin_interface/admin.py,0.0,False
+511842,Localization Support,admin_interface/cache.py,0.0,False
+511842,Localization Support,admin_interface/apps.py,0.0,False
+511842,Localization Support,admin_interface/models.py,0.0,False
+511842,Localization Support,tests/settings.py,0.3,True
+511842,Localization Support,tests/test_models.py,0.0,False
+511842,Localization Support,tests/routers.py,0.0,False
+511842,Localization Support,tests/test_multidb.py,0.0,False
+511842,Localization Support,admin_interface/settings.py,0.0,False
+511842,Localization Support,tests/test_templatetags.py,0.3,True
+511842,Localization Support,tests/test_metadata.py,0.0,False
+511842,Localization Support,tests/test_fixtures.py,0.0,False
+511842,Localization Support,.github/ISSUE_TEMPLATE/feature_request.md,0.0,False
+511842,Localization Support,tests/urls.py,0.1,True
+511842,Localization Support,admin_interface/migrations/0003_add_logo_color.py,0.0,False
+511842,Localization Support,tests/urls_without_i18n_patterns.py,0.0,False
+511842,Localization Support,.github/ISSUE_TEMPLATE/bug_report.md,0.0,False
+511842,Localization Support,tests/test_settings.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0002_add_related_modal.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0001_initial.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0004_rename_title_color.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0006_bytes_to_str.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0005_add_recent_actions_visible.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0007_add_favicon.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0009_add_enviroment.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0010_add_localization.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0011_add_environment_options.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0008_change_related_modal_background_opacity_type.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0014_name_unique.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0016_add_language_chooser_display.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0012_update_verbose_names.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0013_add_related_modal_close_button.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0015_add_language_chooser_active.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0017_change_list_filter_dropdown.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0018_theme_list_filter_sticky.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0020_module_selected_colors.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0019_add_form_sticky.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0022_add_logo_max_width_and_height.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0021_file_extension_validator.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0023_theme_foldable_apps.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0024_remove_theme_css.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0025_theme_language_chooser_control.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0026_theme_list_filter_highlight.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0028_theme_show_fieldsets_as_tabs_and_more.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0027_theme_list_filter_removal_links.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0030_theme_collapsible_stacked_inlines_and_more.py,0.0,False
+511842,Localization Support,admin_interface/migrations/0029_theme_css_generic_link_active_color.py,0.0,False
+511842,Localization Support,admin_interface/static/streamfield/admin_popup_response.js,0.0,False
+511842,Localization Support,admin_interface/templates/admin/change_form.html,0.0,False
+511842,Localization Support,admin_interface/templates/admin/base_site.html,0.3,True
+511842,Localization Support,admin_interface/templates/admin/change_list.html,0.1,True
+511842,Localization Support,admin_interface/templates/admin/popup_response.html,0.1,True
+511842,Localization Support,admin_interface/templatetags/admin_interface_tags.py,0.3,True
+511842,Localization Support,admin_interface/templates/admin_interface/language_chooser.html,0.2,True
+511842,Localization Support,admin_interface/templates/admin_interface/favicon.html,0.0,False
+511842,Localization Support,admin_interface/templates/admin/filter.html,0.0,False
+511842,Localization Support,admin_interface/templates/admin_interface/date_hierarchy_removal_link.html,0.0,False
+511842,Localization Support,admin_interface/templates/admin_interface/collapsible-inlines.html,0.0,False
+511842,Localization Support,admin_interface/static/admin/js/cancel.js,0.0,False
+511842,Localization Support,admin_interface/templates/admin_interface/dropdown_filter.html,0.1,True
+511842,Localization Support,admin_interface/static/admin/js/collapse.js,0.0,False
+511842,Localization Support,admin_interface/templates/admin_interface/related-modal.html,0.0,False
+511842,Localization Support,admin_interface/static/admin_interface/favico/favico-0.3.10-patched.min.js,0.0,False
+511842,Localization Support,admin_interface/static/admin_interface/collapsible-inlines/collapsible-inlines.js,0.0,False
+511842,Localization Support,admin_interface/templates/admin_interface/list_filter_removal_link.html,0.0,False
+511842,Localization Support,admin_interface/templates/admin_interface/foldable-apps.html,0.0,False
+511842,Localization Support,admin_interface/static/admin/js/popup_response.js,0.0,False
+511842,Localization Support,admin_interface/static/admin_interface/tabbed-changeform/tabbed-changeform.js,0.0,False
+511842,Localization Support,admin_interface/static/admin_interface/foldable-apps/foldable-apps.js,0.0,False
+511842,Localization Support,admin_interface/static/admin_interface/favico/favico-0.3.10-patched.js,0.0,False
+511842,Localization Support,admin_interface/static/streamfield/js/admin_popup_response.js,0.0,False
+511842,Localization Support,admin_interface/static/admin_interface/magnific-popup/jquery.magnific-popup.js,0.0,False
+511842,Localization Support,admin_interface/templates/admin/edit_inline/headerless_stacked.html,0.1,True
+511842,Localization Support,admin_interface/static/admin_interface/related-modal/related-modal.js,0.0,False
+511842,Localization Support,admin_interface/templates/admin/edit_inline/headerless_tabular.html,0.2,True
+511842,Localization Support,admin_interface/templates/admin/includes/headerless_fieldset.html,0.0,False
+511842,Localization Support,admin_interface/static/admin_interface/magnific-popup/jquery.magnific-popup.js,0.0,False
+511842,Localization Support,admin_interface/static/ckeditor/ckeditor/skins/light/README.md,0.0,False
+511842,Localization Support,admin_interface/static/ckeditor/ckeditor/skins/light/skin.js,0.0,False
